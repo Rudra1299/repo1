@@ -1,1 +1,2 @@
 here i am seeing how git works
+here there are some changes
