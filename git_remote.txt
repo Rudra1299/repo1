@@ -2,6 +2,10 @@ here i am seeing how git works
 here there are some changes
 here im gonna make some more changes
 here i am gonna make some changes
+import react from "react"
+console.log("where is this console gets logged");
+import some from "idk"
+console.log("i gonna make some changes");
 import "some" from "some"
 import { useState, useEffect } from "react"
 here make some default changes and 
