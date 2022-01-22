@@ -6,3 +6,6 @@ import react from "react"
 console.log("where is this console gets logged");
 import some from "idk"
 console.log("i gonna make some changes");
+import "some" from "some"
+import { useState, useEffect } from "react"
+here make some default changes and 
