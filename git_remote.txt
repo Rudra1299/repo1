@@ -4,3 +4,4 @@ here im gonna make some more changes
 here i am gonna make some changes
 import "some" from "some"
 import { useState, useEffect } from "react"
+here make some default changes and 
